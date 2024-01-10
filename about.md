@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-The Canadian Association of Research Libraries’ [Portage Network](https://portagenetwork.ca/) in collaboration with [McMaster University Library](https://library.mcmaster.ca/) hosted the SSHRC-funded Canadian Data Curation Forum at McMaster University in Hamilton from October 16 to 18, 2019.
+McMaster Universities [Research Data Management Team](https://rdm.mcmaster.ca/about) in collaboration with [Sherman Centre for Digital Scholarship](https://scds.ca/) is hosting the Community Data Toolkit Workshop event at McMaster University in Hamilton from March 22 to 23, 2024.
+
 
 <br />
 
 
-The goal of the Forum was to establish a national Community of Practice that will catalyze the development/adoption of data curation standards, practices, tools, and skills within and across disciplines and institutions. It brought together library data specialists, research data managers, and discipline and functional experts from a range of institutions and organizations. The Forum integrated a variety of keynote talks, discussions, and workshops to with the objectives of a) facilitating communication and collaboration around data curation practices and standards, and b) developing skill and training resources.
+The Community Data Tools Workshop will bring together librarians and research data management professionals, researchers, and community organizations together March 21-22, 2024 to initiate the development of two sharable toolkits. These will be a collection of co-developed guidance documents, one with considerations and guidelines for Data Management Planning (ex. templates, draft research contracts, researcher expectations, community rights documents), and a second for Data Deposit (ex. data curation primers, legacy data inventories, or data access committee frameworks).

@@ -2,24 +2,17 @@
 layout: default
 ---
 
-<h1 class="post-title">Canadian Data Curation Forum</h1>
+<h1 class="post-title">Community Data Toolkit Workshop Event</h1>
 <br />
 
-The Canadian Association of Research Libraries’ Portage Network in collaboration with McMaster University Library hosted the SSHRC-funded Canadian Data Curation Forum at McMaster University in Hamilton from <strong>October 16 to 18, 2019</strong>.  
+McMaster Universities [Research Data Management Team](https://rdm.mcmaster.ca/about) in collaboration with [the Sherman Centre for Digital Scholarship](https://scds.ca/) is hosting the Community Data Toolkit Workshop event at McMaster University in Hamilton from **March 22 to 23, 2024**.
 
-The goal of the Forum was to establish a national Community of Practice that will catalyze the development/adoption of data curation standards, practices, tools, and skills within and across disciplines and institutions. It brought together library data specialists, research data managers, and discipline and functional experts from a range of institutions and organizations. The Forum integrated a variety of keynote talks, discussions, and workshops to with the objectives of a) facilitating communication and collaboration around data curation practices and standards, and b) developing skill and training resources.
-<br /> 
-
-Thank you to all of those who participated in and helped to facilitate the event. 
 
 <br />
-**The final event report with recommendations for a national approach to data curation services in Canada is now available in [English](https://zenodo.org/record/3894935) and [French](https://zenodo.org/record/3895031).**
 
-<br />
-**Event materials can be found [here](../materials).**
 
-<br />
-<br />
+The Community Data Tools Workshop will bring together librarians and research data management professionals, researchers, and community organizations together to initiate the development of two sharable toolkits. These will be a collection of co-developed guidance documents, one with considerations and guidelines for Data Management Planning (ex. templates, draft research contracts, researcher expectations, community rights documents), and a second for Data Deposit (ex. data curation primers, legacy data inventories, or data access committee frameworks).
+<br /><br /><br />
 
 ---
 <h1 class="post-title">News</h1>
