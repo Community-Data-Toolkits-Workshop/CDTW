@@ -9,7 +9,7 @@
     {% endfor %}
     </ul>
     {% else %}
-     <li><a href="{{ item.href }}" class="page-link">{{ item.title }}</a>
+     <li><a href="{{site.baseurl}}{{ item.href }}" class="page-link">{{ item.title }}</a>
     {% endif %}
     </li>
     {% endfor %}
