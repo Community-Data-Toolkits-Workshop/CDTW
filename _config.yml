@@ -2,8 +2,8 @@
 title: Community Data Toolkit Workshop
 email: canadiandatacurationforum@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/CDTW" # the subpath of your site, e.g. /blog/
-url: "https://community-data-toolkits-workshop.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://community-data-toolkits-workshop.github.io/CDTW" # the base hostname & protocol for your site
 twitter_username: portageCARLABRC
 github_username:  data-curation
 
