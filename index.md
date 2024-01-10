@@ -19,6 +19,10 @@ The Community Data Tools Workshop will bring together librarians and research da
 
 <h1 class="post-title">News</h1>
 
+### Coming Soon!
+
+<!--- 
+
 <ul class="listing">
 {% for post in site.posts %}
   <li class="listing-item">
@@ -30,3 +34,5 @@ The Community Data Tools Workshop will bring together librarians and research da
 
 {% endfor %}
 </ul>
+
+--->
