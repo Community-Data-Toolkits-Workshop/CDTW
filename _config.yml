@@ -2,8 +2,8 @@
 title: Research Community Data workshop
 email: canadiandatacurationforum@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://research-community-data-workshop.github.io/RCDW" # the base hostname & protocol for your site
+baseurl: "/RCDW" # the subpath of your site, e.g. /blog/
+url: "https://research-community-data-workshop.github.io" # the base hostname & protocol for your site
 twitter_username: portageCARLABRC
 github_username:  data-curation
 
