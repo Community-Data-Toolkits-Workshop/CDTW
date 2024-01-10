@@ -1,0 +1,29 @@
+# Site settings
+title: Research Community Data workshop
+email: canadiandatacurationforum@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://data-curation.github.io" # the base hostname & protocol for your site
+twitter_username: portageCARLABRC
+github_username:  data-curation
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+# Other options
+excerpt_separator: "<!--more-->"
+
+# SEO stuff
+# google_author: ""
+# google_site_verification: ""
+# bing_webmastertools_id: ""
+
+exclude:
+- _site/

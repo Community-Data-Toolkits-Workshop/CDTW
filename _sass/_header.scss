@@ -1,0 +1,75 @@
+/**
+ * Site header
+ */
+.site-header {
+    border-top: 0px solid $grey-color-dark;
+	border-bottom: 4px solid $clemson-orange;
+    min-height: 56px;
+    background: $clemson-blue;
+    // Positioning context for the mobile navigation icon
+   position: relative;
+
+}
+
+.site-title {
+    font-size: 26px;
+/* 		margin-top: 15px;
+    line-height: 40px; */
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+    font-weight: 500;
+		font-family: 'Titillium Web', sans-serif;
+    color: #ffffff;
+    &,
+    &:visited {
+        color: #ffffff;
+    }
+    &,
+    &:hover {
+	text-decoration: none;
+}
+}
+
+.site-header .wrapper {
+	padding-top: 20px;
+	position: relative;
+}
+
+.site-nav ul li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.site-nav ul {
+
+	text-align: left;
+	float: right;
+	padding-top: 9px;
+	font-size: 95%;
+	letter-spacing: 1px;
+	line-height: 1em;
+	font-weight: 600;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-transform: uppercase;
+		font-family: 'Titillium Web', sans-serif;
+
+}
+
+.site-nav .menu > li {
+	border-bottom: 3px solid transparent;
+	display: inline-block;
+	height: 23px;
+	line-height: normal;
+	margin: 0px 0 0 20px;
+	padding: 0 0 2px 0;
+	position: relative;
+	vertical-align: top;
+}
+
+.site-nav a {
+	display: block;
+        color: #ffffff;
+}
