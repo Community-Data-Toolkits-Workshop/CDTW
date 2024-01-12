@@ -4,8 +4,8 @@ title: Presenters
 permalink: /presenters/
 ---
 
-### Jay Brodeur
-Jay Brodeur is the Associate Director of Digital Scholarship Services at McMaster University Library, and the Administrative Director of the [Sherman Centre for Digital Scholarship](https://scds.ca/). In his position, he oversees a number of initiatives related to research data management, data services, digital scholarship, and reseach information management. In his capacity as chair of McMaster's institutional RDM working group and the Canadian Association of Research Libraries' (CARL) Portage Network's Curation Expert Group, Jay works toward integrating data management systems and methodologies. 
+### Danica Evering
+Danica Evering is available to help students, postdocs, faculty, and staff with any RDM-related questions including Data Management Plans, Data Storage and Backup, Data Security, and Data Deposit and Sharing. Danica's educational and research background is in Media Studies.
 
 ### James Doiron
 James Doiron is the Research Data Management Services Coordinator, University of Alberta Libraries. With an educational background in the Social Sciences (Psychology/Criminology), James has extensive applied research and data management experience across a wide range of disciplines, areas of focus and data types. James actively sits on a number of local, national and international advisory and working groups, including both as a member of the UofA’s Institutional RDM Strategy Working Group and Health Research Ethics Board, the Statistics Canada Data Liberation Initiative (DLI) External Advisory Committee, and the Confederation of Open Access Repositories (COAR) Research Data Management Interest Group. James is co-Chair of the Canadian Association of Research Libraries (CARL) Portage Network Data Management Planning (DMP) Expert Group, and is additionally a member of the Portage Research Data Management (RDM) Training Expert Group, as well as the Dataverse North Working Group.   
