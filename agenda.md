@@ -19,7 +19,7 @@ permalink: /agenda/
 
 ## Data Curation Training Event
 
-<h3 id="day-1">Day 1: Wednesday, 16-October, 2019</h3>
+<h3 id="day-1">Day 1: Thursday, 21-March, 2024</h3>
 
 <p class="post-meta">Location: McMaster Continuing Education Centre, <a href="https://goo.gl/maps/5kK3S6DEB4SJ8SYV8">1 James St. North, Hamilton, ON</a></p>
 
