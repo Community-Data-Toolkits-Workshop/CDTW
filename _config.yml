@@ -1,5 +1,5 @@
 # Site settings
-title: Community Data Toolkit Workshop
+title: Community Data Toolkits Workshop
 email: rdm@mcmaster.ca
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/CDTW" # the subpath of your site, e.g. /blog/

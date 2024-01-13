@@ -44,6 +44,11 @@
 	background: #fff;
 	color: $clemson-blue;
 	text-decoration: none;
+	transition: none;
+	&:hover {
+		background: $clemson-blue;
+		color: white;
+	}
 
 }
 
