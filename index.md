@@ -5,7 +5,7 @@ layout: default
 <h1 class="post-title">About the Event</h1>
 <br />
 
-McMaster Universities [Research Data Management Team](https://rdm.mcmaster.ca/about) in collaboration with [the Sherman Centre for Digital Scholarship](https://scds.ca/) is hosting the Community Data Toolkits Workshop event at McMaster University in Hamilton from **March 22 to 23, 2024**.
+McMaster University's [Research Data Management Team](https://rdm.mcmaster.ca/about) in collaboration with [the Sherman Centre for Digital Scholarship](https://scds.ca/) is hosting the Community Data Toolkits Workshop event at McMaster University in Hamilton from **March 22 to 23, 2024**.
 
 
 <br />
