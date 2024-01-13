@@ -47,12 +47,12 @@
 	}
 
 .site-nav ul.menu a {
-	background: #fff;
+	background-color: #fff;
 	color: $clemson-blue;
 	text-decoration: none;
 	transition: none;
 	&:hover {
-		background: $clemson-blue;
+		background-color: $clemson-blue;
 		color: white;
 	}
 
