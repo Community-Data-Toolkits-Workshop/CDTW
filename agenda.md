@@ -18,10 +18,10 @@ permalink: /agenda/
 <br />
 
 ## Data Curation Training Event
-
-<h3 id="day-1">Day 1: Wednesday, 16-October, 2019</h3>
-
-<p class="post-meta">Location: McMaster Continuing Education Centre, <a href="https://goo.gl/maps/5kK3S6DEB4SJ8SYV8">1 James St. North, Hamilton, ON</a></p>
+<p class="post-meta">Workers Arts and Heritage Centre | 51 Stuart Street, Hamilton Ontario</p>
+<br>
+<h3 id="day-1">Workshop Day 1: Context and Brainstorming</h3>
+<h4>Thursday, 21-March, 2024</h4>
 
 <table class="one">
   <thead>
@@ -29,27 +29,27 @@ permalink: /agenda/
 	<th class="time">Time</th>
 	<th class="room">Room</th>    
 	<th class="session">Event</th>
-	<th class="name">Presenter(s)</th>
+	<th class="name">Description</th>
     </tr>
   </thead>	
 <tbody>
     <tr>
-	<td>0815 - 0845</td>
-	<td>OJN 212</td>
-	<td><strong>Registration & Breakfast</strong></td>
-	<td></td>
+	<td>8:00-9:00</td>
+	<td>TBD</td>
+	<td><strong>Breakfast</strong></td>
+	<td>Participants gather for networking and breakfast</td>
     </tr>
     <tr>
-        <td>0845 - 0915</td>
-	<td>OJN 212</td>	    
-        <td>Welcome & Introduction</td>
-	<td>Lee Wilson & Jay Brodeur</td>
+        <td>9:00 - 10:00</td>
+	<td>TBD</td>	    
+        <td> Introduction</td>
+	<td>Introduction and Context: “Research Data Management, Data Management Planning, and Data Deposit: A Discussion of FRDR’s Controlled Access Management Pilot” - Victoria Smith–Digital Research Alliance of Canada, Subhanya Sivajothy, Danica Evering–McMaster University Library.</td>
     </tr>
     <tr>
-    	<td>0915 - 1200</td>
-	<td>OJN 111</td>	    
-    	<td>Workshop 1a: <a href="../program#workshop-1a-introduction-to-r-for-social-scientists">Introduction to R for Social Scientists</a></td>
-    	<td>John Simpson</td>
+    	<td>10:00 - 10:30</td>
+	<td>TBD</td>	    
+    	<td>Breakout</a></td>
+    	<td>Small Group Breakouts (in room): Introductions and Skillset Sharing</td>
     </tr>
     <tr>
     	<td></td>
