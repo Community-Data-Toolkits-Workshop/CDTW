@@ -5,14 +5,15 @@ layout: default
 <h1 class="post-title">About the Event</h1>
 <br />
 
-McMaster University's [Research Data Management Team](https://rdm.mcmaster.ca/about) in collaboration with [the Sherman Centre for Digital Scholarship](https://scds.ca/) is hosting the Community Data Toolkits Workshop event at McMaster University in Hamilton from **March 22 to 23, 2024**.
 
+Research data management professionals, researchers, and community organizations are gathering in Hamilton, Ontario, on March 21-22, 2024, for a Community Research Data Toolkits Workshop.
+1.	During this event, we will create two toolkits that everyone can use like guidelines: Data Management Planning: This includes templates, draft research contracts, researcher expectations, community rights documents
+2.	Data Deposit: This involves data curation primers, legacy data inventories, or data access committee frameworks
 
-<br />
+The idea is that researchers and communities need better tools to plan, manage, and share their data. Now, ethical consent processes have been updated to allow for "broad consent" for sharing data. Journal publishers and funders are also making it a requirement for researchers to create plans for managing data and depositing it. This workshop is not just about sharing information; it's part of a bigger conversation about data justice. People from various backgrounds are coming together to make sure that communities can use their own data and that research data from communities is kept safe.
 
+Toolkits developed by this workshop will be integrated into the [Digital Research Alliance of Canada](https://alliancecan.ca/en/latest/news/dmp-resources-help-researchers-comply-tri-agency-research-data-management-policy)’s Controlled Access Management pilot project. We are also hoping that, beyond toolkit development, this workshop will launch an active community of practice working towards data equity in RDM.
 
-The Community Data Toolkits Workshop will bring together librarians and research data management professionals, researchers, and community organizations together to initiate the development of two sharable toolkits. These will be a collection of co-developed guidance documents, one with considerations and guidelines for Data Management Planning (ex. templates, draft research contracts, researcher expectations, community rights documents), and a second for Data Deposit (ex. data curation primers, legacy data inventories, or data access committee frameworks).
-<br /><br /><br />
 
 ---
 <br>
