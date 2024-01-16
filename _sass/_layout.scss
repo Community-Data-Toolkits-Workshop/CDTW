@@ -171,3 +171,28 @@ ul.listing li.listing-item a.excerpt{
 	padding: 0 0 0 0;
 }
 
+/**
+ * BUTTONS
+ */
+
+ .btn2 {
+    display: inline-block;
+    background-color: $brand-color;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 8px 20px;
+    border-radius: 5px;
+    font-size: small;
+    font-weight: 400;
+    cursor: pointer;
+    color: white;
+    text-transform: uppercase;
+    box-shadow: 3px 3px 6px #00000040;
+    letter-spacing: 0.39px;
+    transition-duration: 0.4s;
+        }
+  .btn2:hover {
+    background-color: $clemson-blue;
+    text-decoration: none;
+    color: white;
+  }

@@ -1,6 +1,3 @@
-- title: "About"
-  href: "/about/"
-
 - title: "Agenda"
   href: "/agenda/" 
 
@@ -10,5 +7,8 @@
 - title: "Presenters"
   href: "/presenters/"
 
-- title: "Event Materials"
-  href: "/materials/"
+#- title: "Event Materials"
+#  href: "/materials/"
+
+- title: "Travel"
+  href: "/travel/"
