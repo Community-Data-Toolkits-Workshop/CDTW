@@ -32,28 +32,24 @@ permalink: /travel/
 
 ## Things to Do
 
-- **[The Workers Arts & Heritage Centre](https://wahc-museum.ca/event/declaration/)**: The community museum and cultural centre includes a main gallery of contemporary artists that explore issues related to work, social justice, history and challenge pre-conceived notions of labour and workers. The current exhibition, Declaration, celebrates the act of voicing a demand, standing together, making a petition, and mourning collective loss. Each banner looks back and looks forward, connecting ways in which declarative acts continue to unite and divide us. 
+- **[The Workers Arts & Heritage Centre](https://wahc-museum.ca/event/declaration/)**: The community museum and cultural centre features a main gallery showcasing contemporary artists exploring themes of work, social justice, and history, challenging conventional ideas about labor. The current exhibit, Declaration, commemorates collective actions like making demands, standing together, petitioning, and mourning losses. The displayed banners reflect on past and future declarative acts, highlighting both their unifying and divisive impacts.
 
-- **[Hamilton Artists Inc](https://www.theinc.ca/exhibitions/mullyanne-nimito-amiskwaciy-waskahikan)**: The featured exhibition is Mullyanne Nîmito amiskwaciy-wâskahikan. Nîmito in nêhiyawêwin translates to she dances. Artist Mullyanne Nîmito explores ideas around Nehiyaw alien, protection, movement as healing, ancestral knowledge, traditional practice and Nehiyaw fashion. 
+- **[Hamilton Artists Inc](https://www.theinc.ca/exhibitions/mullyanne-nimito-amiskwaciy-waskahikan)**: In the gallery's highlighted display, titled "Mullyanne Nîmito amiskwaciy-wâskahikan," artist Mullyanne Nîmito explores profound themes such as Nehiyaw alienation, protection, healing through movement, ancestral wisdom, traditional practices, and the Nehiyaw fashion.
 
 
-- **[The Art Gallery of Hamilton](https://www.artgalleryofhamilton.com/)**: With a featured exhibit by [RBC Artist in Residence Melissa General](https://www.artgalleryofhamilton.com/exhibition/melissa-general/), whose evolving new body of work centres on her identity as a Mohawk artist from Six Nations of the Grand River Territory. Her practice is focused on her home territory of Six Nations of the Grand River and the concepts of memory, language and land.
+- **[The Art Gallery of Hamilton](https://www.artgalleryofhamilton.com/)**: The gallery is currently showcasing the work of [RBC Artist in Residence Melissa General](https://www.artgalleryofhamilton.com/exhibition/melissa-general/). Her latest collection revolves around her identity as a Mohawk artist from Six Nations of the Grand River Territory. Melissa's artistic focus centers on her homeland, exploring themes of memory, language, and the significance of the land. 
 
-- **[Erland Lee Museum](https://erlandleemuseum.ca)**: An international organization formed in 1897 to promote the education of isolated rural women. The Museum is open for walk-in tours on Fridays and Saturdays from 11:00 am - 4:00pm, or any day by appointment. 
+- **[Erland Lee Museum](https://erlandleemuseum.ca)**: The museum, established in 1897 as an international organization to advance the education of isolated rural women, welcomes visitors for walk-in tours on Fridays and Saturdays between 11:00 am and 4:00 pm and by appointment on any other day.
 
-- **[Hamilton Street Art Tour](https://tourismhamilton.com/street-art-guide/ )**: Hamilton’s Street art scene offers a window into the city’s character and many stories such as Woman with Flowers, Helping Hand, A World of Welcome etc. 
+- **[Dundurn Castle](https://tourismhamilton.com/partner/dundurn-national-historic-site/)**: Formerly a significant trade site for the Mississaugas and a fortified military camp, transformed into the lavish residence of Sir Allan MacNab, one of Canada's early premiers. Now designated a National Historic Site, the castle offers guided tours by costumed interpreters, providing insights into the lives of the affluent family upstairs and the servants below. 
 
-- **[Historical Walking Tour in Downtown Hamilton](https://www.hamilton.ca/people-programs/hamilton-municipal-cemeteries/our-cemeteries/historical-walking-tours)**: Visit landmarks such as the Hamilton City Hall, the Central Library, and the historic Gore Park.
+- **[The Cotton Factory](https://www.cottonfactory.ca)**: The historical industrial complex, formerly known as The Imperial Cotton Company Limited, has been repurposed for small-scale manufacturing and as an office space for creative professionals. 
 
-- **[Dundurn Castle](https://tourismhamilton.com/partner/dundurn-national-historic-site/)**: Once a key trading location for the Mississaugas and then the site of a fortified military encampment for British and loyalist soldiers. It later became the opulent home of one of Canada's first premiers, Sir Allan MacNab and is now a National Historic Site. Today, costumed interpreters lead personal and intimate tours throughout Dundurn Castle that tell the story of the wealthy family who lived above stairs and the servants who lived and worked below. 
+- **[Hamilton Farmer’s Market](https://hamiltonfarmersmarket.ca)**: Founded in 1837, the Hamilton Farmer's Market is situated next to Jackson Square and the Hamilton Public Library and offers a variety of national and international foods. 
 
-- **[The Cotton Factory](https://www.cottonfactory.ca)**: The historical industrial complex, formerly known as The Imperial Cotton Company Limited, has been repurposed for for small manufacturing and as an office space for creative professionals. 
+- **[The Westdale Theatre](https://www.thewestdale.ca/)**: Independent movie theatre located near McMaster campus in Westdale Village.
 
-- **[Hamilton Farmer’s Market](https://hamiltonfarmersmarket.ca)**: The Hamilton Farmers' Market was established in 1837 and is located in beside Jackson Square and the Hamilton Public Library. Bring a couple of reusable bags – you'll have plenty of national and international foods to choose from with over 60 vendors open year-round. 
-
-- **[The Westdale Theatre](https://www.thewestdale.ca/)**: Independent movie theatre located near campus in Westdale Village.
-
-- **[The Casbah](https://casbahlounge.ca/)**: Veteran venue for independent music.
+- **[The Casbah](https://casbahlounge.ca/)**: Popular local haunt for live music.
 
 ## Hiking in Hamilton
 - [Webster’s Falls and Tew’s Falls](https://geotrail.ca/websters-falls-and-gorge-walk/) (4.1 km, 2.1 hr)
