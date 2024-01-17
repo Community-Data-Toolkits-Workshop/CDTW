@@ -109,6 +109,7 @@ permalink: /agenda/
 ## Toolkit Development
     
 <h3 id="day-2">Day 2: Friday, 22-March, 2024</h3>
+<p class="post-meta">Location: Workers Arts and Heritage Centre, <a href="https://maps.app.goo.gl/doN9BYXDsPR2ipe59">51 Stuart Street, Hamilton Ontario</a></p>
 
 
 <table class="one">
