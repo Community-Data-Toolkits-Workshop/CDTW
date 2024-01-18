@@ -4,6 +4,10 @@ title: Explore Hamilton
 permalink: /travel/
 ---
 
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1Osdcd4UmfNAiqkzdqpcMulxmMBwLmAk&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+<br>
+
 ## Restaurants
 ### To Visit (Close to Campus)
 - [Born & Raised](https://www.bornandraisedrestaurant.com) (224 James St N)
@@ -58,6 +62,8 @@ permalink: /travel/
 - [Devil’s Punchbowl/Battlefield Creek Walk](https://geotrail.ca/devils-punchbowl-battlefield-creek-walk/) (2.7 km, 1.35 hr)
 - [Dundas Valley heritage Walk](https://geotrail.ca/dundas-valley-heritage-walk/) (3.9 km, 2.0 hr)
 - [Ancaster Village Waterfall Walk](https://geotrail.ca/dundas-valley-heritage-walk/) (3.5 km, 1.75 hr)
+
+
 
 
   
