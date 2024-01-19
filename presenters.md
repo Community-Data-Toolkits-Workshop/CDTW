@@ -28,7 +28,7 @@ Amiel Joseph, PhD, is Holder of the Faculty of Social Sciences Professorship in 
 ### Shahira Khair, University of Victoria Libraries
 Shahira Khair (she/her) is a Data Curation Librarian at the University of Victoria Libraries and her current portfolios include research data management and organizational analysis. She leads the Libraries’ research data services and supports researchers in adopting digital tools into their research grants and course instruction. She also oversees the management of the Libraries’ internal data assets and collaborates across departments on projects that demonstrate library impact. Shahira holds a Master's of Science in Biology and a Master's of Information Studies from the University of Ottawa. She has spent much of her career advancing national-scale research infrastructure initiatives through work with the Digital Research Alliance of Canada and the Canadian Association of Research Libraries and has significant experience leading engagement and collaboration between research communities, funders, and service providers.    
 
-### Sally Landon, HWDSB and David Kanters, McMaster University
+### Sally Landon and David Kanters, HWDSB
 Hamilton-Wentworth District School Board (HWDSB) is a medium-to-large Ontario school board that serves a community of approximately 50,000 students in the City of Hamilton and surrounding areas. Sally Landon, as a Manager, Research & Analytics Department, and David Kanters, Data Analyst will bring a practice-based approach to our sessions. Together with advocate and scholar Karen Robson, Sally and David will present “Education Data: A Case Study,” enlivening our sessions with an on-the-ground case study.
 
 ### Veronica Litt, Digital Scholarship Coordinator
