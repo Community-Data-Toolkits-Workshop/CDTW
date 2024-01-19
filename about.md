@@ -5,7 +5,7 @@ permalink: /travel/
 ---
 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1Osdcd4UmfNAiqkzdqpcMulxmMBwLmAk&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+<div class = "google-maps"><iframe src="https://www.google.com/maps/d/embed?mid=1Osdcd4UmfNAiqkzdqpcMulxmMBwLmAk&ehbc=2E312F&noprof=1" width="640" height="480"></iframe></div>
 <br>
 
 ## Restaurants

@@ -5,7 +5,7 @@
     <li><a href="{{ item.href }}" class="page-link">{{ item.title }}</a>
     <ul class="sub-menu">
     {% for subcategory in item.subcategories %}
-    <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+    <li><a href="{{site.baseurl}}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
     {% endfor %}
     </ul>
     {% else %}

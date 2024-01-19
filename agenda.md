@@ -33,19 +33,19 @@ permalink: /agenda/
 <tbody>
     <tr>
 	<td>0800 - 0900</td>
-	<td><strong>Breakfast</strong></td>
+	<td><strong>Break&shy;fast</strong></td>
 	<td>Participants gather for networking and breakfast.</td>
 	<td></td>
     </tr>
     <tr>
         <td>0845 - 0915</td>	    
-        <td>Introduction</td>
+        <td>Introduc&shy;tion</td>
 	<td>“Research Data Management, Data Management Planning, and Data Deposit: A Discussion of FRDR’s Controlled Access Management Pilot”</td>
 	<td>Victoria Smith, Digital Research Alliance of Canada; Subhanya Sivajothy and Danica Evering, McMaster University Library</td>
     </tr>
     <tr>
     	<td>1000 - 1030</td>    
-    	<td>Breakout</td>
+    	<td>Break&shy;out</td>
     	<td>Small Group Breakouts (in room): Introductions and Skillset Sharing.</td>
 		<td></td>	
     </tr>
@@ -75,7 +75,7 @@ permalink: /agenda/
     </tr>
 	    <tr>
         <td>0130 - 0230</td>   
-        <td>Presentation</td>
+        <td>Presen&shy;tation</td>
 	<td>“Education Data: A Case Study"</td>
 	<td>Lorraine Valmadrid and Sally Landon, HWDSB; Karen Robson, McMaster University</td>	 
     </tr>
@@ -87,7 +87,7 @@ permalink: /agenda/
     </tr>
 		    <tr>
         <td>0310 - 0330</td>    
-        <td>Discussion</td>
+        <td>Discus&shy;sion</td>
 	<td>Group Discussion: Reporting Back + Integrating</td>
 		<td></td>	
     </tr>
@@ -99,7 +99,7 @@ permalink: /agenda/
     </tr>
 			    <tr>
         <td>0345 - 0430</td>
-        <td>Presentation</td>
+        <td>Presen&shy;tation</td>
 	<td>“We Support Hamilton: A Community Reporting Hate & Resources Platform”</td>
 		<td>Ameil Joseph, McMaster University; Lyndon George, HARRC</td>	    
     </tr>
@@ -124,26 +124,26 @@ permalink: /agenda/
 <tbody>
     <tr>
 	<td>0800 - 0900</td>
-	<td><strong>Breakfast</strong></td>
+	<td><strong>Break&shy;fast</strong></td>
 	<td>Participants gather for networking and breakfast.</td>
 		<td></td>
     </tr>
     <tr>
     	<td>0900 - 1000</td>
-	<td>Introduction</td>
+	<td>Introduc&shy;tion</td>
     	<td>“Community Research Data Toolkits: Potential Documents, Work Today, and Beyond” </td>
 		<td>Subhanya Sivajothy and Danica Evering, McMaster University Library; Mikala Narlock, Data Curation Network</td>
     </tr>
     <tr>
     	<td>1000 - 1115</td>
-    	<td>Hackathon</td>
+    	<td>Hack&shy;athon</td>
     	<td>Working Session 1: "First Steps for Toolkit Building: Confirm Document Types, Working Groups, Skillsets” (as groups in separate rooms); Form Working
 		</td>
 		<td></td>
     </tr>
 	    <tr>
     	<td>1115 - 1230</td>
-    	<td>Hackathon</td>
+    	<td>Hack&shy;athon</td>
     	<td>
 		Working Session 2: “Community Accountability: How to ensure meaningful engagement with community organizations?”
 		</td>
@@ -157,25 +157,25 @@ permalink: /agenda/
     </tr>
 	    <tr>
 	<td>0130 - 240</td>
-	<td>Hackathon</td>
+	<td>Hack&shy;athon</td>
     	<td>Working Session 3: “Detailed Outlines for Toolkits” (as groups in separate rooms)</td>
 			<td></td>    
     </tr>
 	    <tr>
 	<td>0240 - 340</td>
-	<td>Discussion</td>
+	<td>Discus&shy;sion</td>
     	<td>Final Debrief Presentations: Data Management Planning + Data Deposit Groups present on work and next steps (30 mins each) </td>
 			<td></td>    
     </tr>
 		    <tr>
 	<td>0340 - 440</td>
-	<td>Presentation</td>
+	<td>Presen&shy;tation</td>
     	<td>“Formation of National Working Group”</td>
 		<td>Victoria Smith; Subhanya Sivajothy; Danica Evering</td>    
     </tr>
 			    <tr>
 	<td>0400 - 0430</td> 
-	<td>Discussion</td>
+	<td>Discus&shy;sion</td>
     	<td>Closing Group Discussion:<br>
 
 - Priorities for the toolkit moving forward<br>

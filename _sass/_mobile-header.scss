@@ -3,8 +3,7 @@
 .footer-col-wrapper {
 	display: flex;
 	flex-wrap: wrap;
-	flex-direction: row;
-}
+	flex-direction: row; }
 
 .site-nav h1 {
 		border-bottom: 3px solid transparent;
@@ -17,6 +16,15 @@
 		white-space: nowrap;
 	}
 
+.site-header .wrapper {
+	padding: 10px;
+	margin: 0px;
+}
+
+.site-title {
+	font-size: 22px;
+}
+
 .site-nav .menu {
 	/*	border: 3px solid transparent; */
 		border-top: 0;
@@ -27,14 +35,13 @@
 		/* Hide until activated */
 		display: block;
 		left: -3px;
-		min-width: 150px;
-/*		margin-top: 36px; */
+/*		min-width: 150px; */
+/*		margin-top: 36px;
 		/*padding: 4px 0;   */
 		position: relative;
 		right: -3px;
 		z-index: 999;
 	}
-
 
 .site-nav .menu.open {
 		display: block;
@@ -42,7 +49,7 @@
 
 .site-nav .menu li {
 		display: block;
-		margin: 0;
+		margin: 0px;
 		color: $clemson-blue;
 	}
 
@@ -51,7 +58,7 @@
 	color: $clemson-blue;
 	text-decoration: none;
 	transition: none;
-	&:hover {
+	&:active {
 		background-color: $clemson-blue;
 		color: white;
 	}
@@ -76,8 +83,8 @@
 		display: block;
 		font-family: 'Titillium Web', Helvetica, Arial, Verdana, sans-serif;
 		position: relative;
-		min-width: 215px;
-		max-width: 215px;
+		/* min-width: 215px; */
+		/* max-width: 215px; */
 		top: auto;
 		text-transform: uppercase;
 		right: auto;

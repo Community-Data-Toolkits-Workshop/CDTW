@@ -95,6 +95,8 @@ table{
 td,th{
 	padding:5px;
 	border-bottom: 1px solid #ddd;
+    font-size: small;
+    hyphens: auto;
 }
 
 th{
@@ -107,12 +109,20 @@ th{
 }
 
 .room {
-  width: 10%;
+  width: 20%;
   text-align: center;
 }
 
+td:nth-child(2) {
+    word-break: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto !important;
+}
+
 .session {
-  width: 45%;
+  width: 35%;
 }
 
 .name {

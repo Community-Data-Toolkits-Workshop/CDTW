@@ -10,5 +10,10 @@
 #- title: "Event Materials"
 #  href: "/materials/"
 
-- title: "Travel"
+- title: "Attendee Info"
   href: "/travel/"
+
+#- title: "Attendee Info"
+#  subcategories:
+#    - subtitle: "Travel"
+#      subhref: "/travel/"
