@@ -40,11 +40,11 @@ permalink: /agenda/
     <tr>
         <td>0845 - 0915</td>	    
         <td>Introduc&shy;tion</td>
-	<td>“Research Data Management, Data Management Planning, and Data Deposit: A Discussion of FRDR’s Controlled Access Management Pilot”</td>
+	<td>“Research Data Management, Data Management Planning, and Data Deposit: the Controlled Access Management Project”</td>
 	<td>Victoria Smith, Digital Research Alliance of Canada; Subhanya Sivajothy and Danica Evering, McMaster University Library</td>
     </tr>
     <tr>
-    	<td>1000 - 1030</td>    
+    	<td>1000 - 1030</td>
     	<td>Break&shy;out</td>
     	<td>Small Group Breakouts (in room): Introductions and Skillset Sharing.</td>
 		<td></td>	
@@ -59,7 +59,7 @@ permalink: /agenda/
 	<td>1045 - 1200</td>    
     	<td>Panel</td>
     	<td>“Communities Empowered by Data - Control and Use” </td>
-		<td>Aaron Franks, FNIGC; Jennifer Walker, McMaster University; Ted Hildebrand, SPRC</td>	
+		<td>Ted Hildebrand, SPRC</td>	
     </tr>
     <tr>	
 	<td>1200 - 1230</td>
@@ -70,14 +70,14 @@ permalink: /agenda/
     <tr>
         <td>1230 - 0130</td>    
         <td><strong>Lunch</strong></td>
-	<td>Participants eat, discuss, and network. Event team to pull from Menti onto whiteboards/jamboards</td>
+	<td>Participants eat, discuss, and network.</td>
 		<td></td>	
     </tr>
 	    <tr>
         <td>0130 - 0230</td>   
         <td>Presen&shy;tation</td>
 	<td>“Education Data: A Case Study"</td>
-	<td>Lorraine Valmadrid and Sally Landon, HWDSB; Karen Robson, McMaster University</td>	 
+	<td>Sally Landon and David Kanters, HWDSB; Karen Robson, McMaster University</td>	 
     </tr>
 		    <tr>
         <td>0230 - 0310</td>    
