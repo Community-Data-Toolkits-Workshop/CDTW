@@ -59,7 +59,7 @@ permalink: /agenda/
 	<td>1045 - 1200</td>    
     	<td>Panel</td>
     	<td>“Communities Empowered by Data - Control and Use” </td>
-		<td>Aaron Franks, FNIGC; Jennifer Walker, McMaster University; Ted Hildebrand, SPRC</td>	
+		<td>Ted Hildebrand, SPRC</td>	
     </tr>
     <tr>	
 	<td>1200 - 1230</td>
@@ -77,7 +77,7 @@ permalink: /agenda/
         <td>0130 - 0230</td>   
         <td>Presentation</td>
 	<td>“Education Data: A Case Study"</td>
-	<td>Lorraine Valmadrid and Sally Landon, HWDSB; Karen Robson, McMaster University</td>	 
+	<td>Sally Landon and David Kanters, HWDSB; Karen Robson, McMaster University</td>	 
     </tr>
 		    <tr>
         <td>0230 - 0310</td>    
