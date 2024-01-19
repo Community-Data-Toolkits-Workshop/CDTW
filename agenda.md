@@ -40,11 +40,11 @@ permalink: /agenda/
     <tr>
         <td>0845 - 0915</td>	    
         <td>Introduction</td>
-	<td>“Research Data Management, Data Management Planning, and Data Deposit: A Discussion of FRDR’s Controlled Access Management Pilot”</td>
+	<td>“Research Data Management, Data Management Planning, and Data Deposit: the Controlled Access Management Project”</td>
 	<td>Victoria Smith, Digital Research Alliance of Canada; Subhanya Sivajothy and Danica Evering, McMaster University Library</td>
     </tr>
     <tr>
-    	<td>1000 - 1030</td>    
+    	<td>1000 - 1030</td>
     	<td>Breakout</td>
     	<td>Small Group Breakouts (in room): Introductions and Skillset Sharing.</td>
 		<td></td>	
@@ -70,7 +70,7 @@ permalink: /agenda/
     <tr>
         <td>1230 - 0130</td>    
         <td><strong>Lunch</strong></td>
-	<td>Participants eat, discuss, and network. Event team to pull from Menti onto whiteboards/jamboards</td>
+	<td>Participants eat, discuss, and network.</td>
 		<td></td>	
     </tr>
 	    <tr>
