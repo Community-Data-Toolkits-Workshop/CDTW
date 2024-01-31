@@ -13,7 +13,6 @@ permalink: /agenda/
 
 <p style="text-align:center; font-size:1.15em; font-weight: bold">Context and Brainstorming: <a href="#day-1">21-March</a></p>
 <p style="text-align:center; font-size:1.15em; font-weight: bold">Toolkit Development: <a href="#day-2">22-March</a></p>
-<br />
 
 ## Context and Brainstorming
 

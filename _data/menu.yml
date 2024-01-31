@@ -1,19 +1,28 @@
+
+
+- title: "About"
+  subcategories:
+    - subtitle: "Event Info"
+      subhref: "/index/"
+    - subtitle: "Support"
+      subhref: "/support/"
+    - subtitle: "Presenters"
+      subhref: "/presenters/"
+
 - title: "Agenda"
   href: "/agenda/" 
-
-- title: "Program"
-  href: "/program/"
-
-- title: "Presenters"
-  href: "/presenters/"
 
 #- title: "Event Materials"
 #  href: "/materials/"
 
-- title: "Attendee Info"
-  href: "/travel/"
-
 #- title: "Attendee Info"
-#  subcategories:
-#    - subtitle: "Travel"
-#      subhref: "/travel/"
+#  href: "/explore/"
+
+- title: "Attendee Info"
+  subcategories:
+    - subtitle: "Travel"
+      subhref: "/travel/"
+    - subtitle: "Accessibility"
+      subhref: "/accessibility/"
+    - subtitle: "Explore"
+      subhref: "/explore/"

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Explore Hamilton
-permalink: /travel/
+permalink: /explore/
 ---
 
 

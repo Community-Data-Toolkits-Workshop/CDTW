@@ -8,7 +8,7 @@
 .site-nav h1 {
 		border-bottom: 3px solid transparent;
 		cursor: pointer;
-		display: none; /* Standard. IE8+, Saf, FF3+ */
+		/* display: none; Standard. IE8+, Saf, FF3+ */
 		height: 23px;
 		left: auto;
 		margin-top: 10px;
@@ -57,10 +57,14 @@
 	background-color: #fff;
 	color: $clemson-blue;
 	text-decoration: none;
-	transition: none;
-	&:active {
+	transition: background-color 0.1s ease;
+	transition: color 0.1s ease;
+	&:hover {
 		background-color: $clemson-blue;
 		color: white;
+	}
+	&:active {
+		background-color: $clemson-blue-dark;
 	}
 
 }
@@ -76,11 +80,12 @@
 	}
 
 .site-nav .sub-menu {
+		display: none;
+		position: absolute;
 		border: 0;
 		-moz-box-shadow: none; /* FF3.5+ */
 		-webkit-box-shadow: none; /* Saf3+, Chrome */
 		box-shadow: none; /* Standard. Opera 10.5, IE9 */
-		display: block;
 		font-family: 'Titillium Web', Helvetica, Arial, Verdana, sans-serif;
 		position: relative;
 		/* min-width: 215px; */
@@ -89,11 +94,17 @@
 		text-transform: uppercase;
 		right: auto;
 		width: auto;
-	}
-
-	.site-nav .sub-menu {
 		padding-left: 16px;
 	}
+
+	.menu li:hover .sub-menu {
+		display: block !important;
+	}
+
+	.menu li:focus-within .sub-menu {
+		display: block !important;
+	}
+
 	.site-nav .sub-menu li.current-menu-item > a {
 		border: 0;
 	}
