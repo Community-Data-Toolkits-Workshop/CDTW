@@ -3,7 +3,7 @@
 - title: "About"
   subcategories:
     - subtitle: "Event Info"
-      subhref: "/index/"
+      subhref: "/"
     - subtitle: "Support"
       subhref: "/support/"
     - subtitle: "Presenters"
@@ -18,7 +18,7 @@
 #- title: "Attendee Info"
 #  href: "/explore/"
 
-- title: "Attendee Info"
+- title: "Attendee-Info"
   subcategories:
     - subtitle: "Travel"
       subhref: "/travel/"

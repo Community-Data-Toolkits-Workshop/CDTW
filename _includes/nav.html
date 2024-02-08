@@ -2,15 +2,80 @@
 
     {% for item in site.data.menu %}
     {% if item.subcategories != null %}
-    <li><a href="{{ item.href }}" class="page-link">{{ item.title }}</a>
-    <ul class="sub-menu">
+
+    <div class="dropdown">
+    
+    <li><button class="dropbtn" onclick="myFunction('{{ item.title }}')"> {{ item.title }}
+        <span class="caret"></span>
+    </button></li>
+
+    <ul class="sub-menu" id="home-{{ item.title }}">
+
     {% for subcategory in item.subcategories %}
     <li><a href="{{site.baseurl}}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
     {% endfor %}
     </ul>
+
+    </div>
     {% else %}
      <li><a href="{{site.baseurl}}{{ item.href }}" class="page-link">{{ item.title }}</a>
     {% endif %}
     </li>
     {% endfor %}
-    </ul>
+
+</ul>
+
+<script>
+    var openSubmenu = null;
+
+    function myFunction(title) {
+        var myList = "home-" + title;
+        var submenu = document.getElementById(myList);
+
+        if (openSubmenu && openSubmenu !== submenu) {
+            openSubmenu.classList.remove("show");
+        }
+
+        submenu.classList.toggle("show");
+        openSubmenu = submenu;
+    }
+
+    // Close the dropdown if the user clicks outside of it
+    window.onclick = function(e) {
+        if (!e.target.matches('.dropbtn')) {
+            var dropdowns = document.getElementsByClassName("sub-menu");
+            for (var i = 0; i < dropdowns.length; i++) {
+                var openDropdown = dropdowns[i];
+                if (openDropdown.classList.contains('show')) {
+                    openDropdown.classList.remove('show');
+                }
+            }
+            openSubmenu = null;
+        }
+    }
+</script>
+
+
+
+
+
+<!-- 
+
+    <ul class="menu">
+
+        {% for item in site.data.menu %}
+        {% if item.subcategories != null %}
+        <li><a href="{{ item.href }}" class="page-link">{{ item.title }}</a>
+        <ul class="sub-menu">
+        {% for subcategory in item.subcategories %}
+        <li><a href="{{site.baseurl}}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+        {% endfor %}
+        </ul>
+        {% else %}
+         <li><a href="{{site.baseurl}}{{ item.href }}" class="page-link">{{ item.title }}</a>
+        {% endif %}
+        </li>
+        {% endfor %}
+        </ul>
+
+-->
