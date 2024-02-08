@@ -99,6 +99,11 @@ h1 /* .post-title */ {
     }
 }
 
+h1.extra-big {
+    font-size: 2em;
+    margin: 1em 0em;
+}
+
 .google-maps {
     position: relative;
     padding-bottom: 75%; // This is the aspect ratio
@@ -214,3 +219,26 @@ ul.listing li.listing-item a.excerpt{
     text-decoration: none;
     color: white;
   }
+
+    img.logo-reg {
+    width: 25%;
+    padding: 2em;
+  }
+
+    img.logo-long {
+    width: 90%;
+    }
+
+    .all-logos {
+        display: block;
+    }
+
+    @media only screen and (max-width: 600px) { 
+        img.logo-reg {
+            width: 50%;
+            padding: 1em;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+          }
+    }

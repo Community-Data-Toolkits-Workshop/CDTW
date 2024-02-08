@@ -52,8 +52,10 @@ permalink: /support/
 
 ## Web Content
 - Niloofar Hooman, McMaster University 
-
 <br><br>
+
+<h1 class ="extra-big"> Sponsors</h1>
+
 **This event is made possible by generous funding and support from:**
 
 - Social Sciences and Humanities Research Council (SSHRC) - Connection Grant, Research Data Management Capacity Building Initiative 
@@ -62,3 +64,13 @@ permalink: /support/
 - McMaster University Library 
 - Hamilton-Wentworth District School Board (HWDSB) 
 - Social Planning Research Council of Hamilton (SPRC)
+
+<div class="all-logos">
+<img class="logo-reg" title="a title" alt="Alt text" src="/CDTW/assets/img/Alliance-Logo-Stacked.png">
+
+<img class="logo-reg" title="a title" alt="Alt text" src="/CDTW/assets/img/scds-logo-white.png">
+
+<img class="logo-reg" title="a title" alt="Alt text" src="/CDTW/assets/img/mcm-library_left-col_png.png">
+
+<img class="logo-long" title="a title" alt="Alt text" src="/CDTW/assets/img/sshrc-fip-full-black-eng.png">
+</div>
