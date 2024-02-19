@@ -56,6 +56,8 @@ Recognizing the diversity of our audience, we are pleased to offer document tran
 
 This event will align with the Sherman Center and McMaster University Library’s Code of Conduct. Attendance at our sessions implies a commitment to promoting a collaborative, respectful, and inclusive experience, and we reserve the right to remove participants engaging in disruptive behavior that may be sexist, racist, ableist, or otherwise discriminatory in nature. If anyone encounters or observes such behavior during events, please connect with the organizing team or reach out to us at rdm@mcmaster.ca 
 
+Custom House offers gender-neutral restrooms, accessible to all, regardless of gender identity. Look for the special signage for easy access.
+
 ## Allergies, Dietary Restrictions and Sensitivities 
 
 We’re committed to accommodating attendees with food or drink allergies! If you have any dietary restrictions, please let us know in advance, and our catering team will work to provide suitable options during the conference. 
