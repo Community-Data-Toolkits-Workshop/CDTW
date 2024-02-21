@@ -16,7 +16,9 @@ Please see below for accessibility details in place for the workshop.
 
 - **Presentation:** Each presentation or session will be designed and conducted with the full participation of all in mind. The main event space will include microphones to ensure speakers and participants are audible. 
 
-- **Seating:** We will provide preferred front-row seating, clearly marked in all rooms, as being saved for those with vision, hearing, or mobility needs. Seating will be provided at all times for people who need to rest. 
+- **Seating:** We will provide preferred front-row seating, clearly marked in all rooms, as being saved for those with vision, hearing, or mobility needs. Seating will be provided at all times for people who need to rest.
+
+- **Washrooms:** Washrooms have accessible stalls with rails and wide doors, accessibility buttons on the main door; as well as pads and other hygiene products. There is a container for needles/sharps in the staff office that participants can use. 
 
 - **Getting Around:** The conference will take place at the Custom House at 51 Stuart Street, Hamilton, Ontario.  
 
