@@ -9,7 +9,7 @@ permalink: /explore/
 <br>
 
 ## Restaurants
-### To Visit (Close to Campus)
+### To Visit (Close to Venue)
 - [Born & Raised](https://www.bornandraisedrestaurant.com) (224 James St N)
 - [Brothers Grimm Bistro](https://brothersgrimmbistro.ca) (193 King St E)
 - [La Luna](https://www.lalunarestaurants.ca/dining) (306 King St W)
