@@ -7,7 +7,7 @@ permalink: /travel/
 
 This section is designed to provide you with comprehensive information on reaching our venue and designated hotel effortlessly! 
 
-Whether you're arriving by air, rail, or road, we have curated essential details on the nearest airport, Go Train services, driving directions, and parking options to participate in the event.
+Whether you're arriving by air, rail, or road, we have curated essential details on the nearest airport, GO Transit services, driving directions, and parking options to participate in the event.
 
 
 ## Accomodations
@@ -43,17 +43,17 @@ Toronto Pearson International Airport (YYZ) is an alternative gateway for attend
 **By Taxi:**
 Attendees can reach the hotel and the venue by taxi or rideshare available at the airport. It takes approximately 20 minutes from YHM and 43 minutes from YYZ. 
 
-**By Go Bus:**
-Route 40 Hamilton-Richmond Hill-Pearson Express departs from Pearson Airport to Hamilton every 30 minutes from Terminal 1, Ground Level – Column Q2 to Q4. You can purchase tickets [online](https://tickets.gotransit.com/en-us/) or at a kiosk at the ground level of Terminal 1. A one-way trip is approximately 1 hour and 21 minutes. Request stop "MAIN at QUEEN" and then walk north on Queen street to the Hampton Inn - this walk is 4 minutes.
+**By GO Bus:**
+Route 40 Hamilton-Richmond Hill-Pearson Express departs from Pearson Airport to Hamilton every 30 minutes from Terminal 1, Ground Level – Column Q2 to Q4. You can purchase tickets [online](https://tickets.gotransit.com/en-us/) or at a kiosk at the ground level of Terminal 1 - the cost is $12.70. A one-way trip is approximately 1 hour and 21 minutes. Request stop "MAIN at QUEEN" and then walk north on Queen street to the Hampton Inn - this walk is 4 minutes.
 
 ### By Train 
 
-**Go Train:** The West Harbour Go station is the nearest Go Train station to the conference venue. From there, attendees can walk to the conference venue in less than 5 minutes. 
+**GO Train:** The West Harbour GO station is the nearest Go Train station to the conference venue. From there, attendees can walk to the conference venue in less than 5 minutes. 
 
-Purchase tickets online at [Go Transit](https://tickets.gotransit.com/en-us/?start_address=02652).
+Purchase tickets online at [GO Transit](https://tickets.gotransit.com/en-us/?start_address=02652).
 
  
-**Via Rail:** For those coming from Toronto, consider the efficient Via Rail service from Union Station to the Harbour Go Transit Station, offering a swift and comfortable commute.
+**VIA Rail:** For those coming from Toronto, consider the efficient Via Rail service from Union Station to the Harbour GO Transit Station, offering a swift and comfortable commute.
 
 Purchase tickets online at [Via Rail](https://www.viarail.ca/en/plan/accessibility).
 
