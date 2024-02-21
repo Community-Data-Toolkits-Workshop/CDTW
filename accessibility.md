@@ -30,7 +30,7 @@ CDTW welcome service animals to accompany attendees within the venue. If you req
 
 Should you encounter challenges navigating any spaces, please email rdm@mcmaster.ca, call 905-522-3003 x 21, or message our team on Discord. 
 
-- **Parking:** Stuart Street allows traffic in both directions and provides free street   parking, along with free parking in the West Harbour Go Station parking lot. 
+- **Parking:** Stuart Street allows traffic in both directions and provides free street parking, along with free parking in the West Harbour Go Station parking lot. 
 
 - **Public Transportation:** HSR makes it easy to get to Workers Arts and Heritage Centre and around Hamilton. We have set aside local travel support for participants who need it. Please email rdm@mcmaster.ca to receive Presto E-Tickets for the event. 
 
