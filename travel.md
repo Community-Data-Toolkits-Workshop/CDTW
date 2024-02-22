@@ -57,9 +57,9 @@ Purchase tickets online at [GO Transit](https://tickets.gotransit.com/en-us/?sta
 
 Purchase tickets online at [Via Rail](https://www.viarail.ca/en/plan/accessibility).
 
-## By Car 
+### By Car 
 
-For those travelling by car, detailed driving directions can be found here.   
+For those travelling by car, detailed driving directions can be accessed via a mapping service. Please enter your starting location to generate personalized directions [here](https://maps.app.goo.gl/r5fQeDsUBVKWgS7b8).
 
 **Parking:** Parking facilities are available at Stuart Street, which allows traffic in both directions and provides free street parking, along with free parking in the West Harbour Go Station parking lot.  
 
