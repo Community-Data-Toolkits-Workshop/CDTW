@@ -220,6 +220,32 @@ ul.listing li.listing-item a.excerpt{
     color: white;
   }
 
+table.bios {
+    width: 100%;
+    td {
+        font-size: medium;
+        border-color: white;
+    }
+    tr td:first-child {width: 30%;}
+}
+
+@media only screen and (max-width: 600px) {
+    table.bios {
+        td {display:block;width:99.9%;clear:both}
+        tr td:first-child {width: 100%; text-align: center;}
+        img.bio.photo {max-width: 50%; margin: 2em 0em 0em 0em;}
+        td {padding: none;}
+        h3 {margin-top: 0em;}
+    }
+}
+  
+
+    img.bio.photo {
+    max-width: 80%;
+    border-radius: 50%;
+    margin: 1em;
+    }
+
     img.logo-reg {
     width: 25%;
     padding: 2em;
