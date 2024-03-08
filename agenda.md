@@ -100,7 +100,7 @@ permalink: /agenda/
         <td>1545 - 1630</td>
         <td>Presen&shy;tation</td>
 	<td>“Communities Empowered by Data - Control and Use"</td>
-		<td>Ted Hildebrand, Social Planning and Research Council of Hamilton</td>	    
+		<td>Ted Hildebrand and Sara Mayo, Social Planning and Research Council of Hamilton</td>	    
     </tr>
 </tbody>
 </table>
