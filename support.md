@@ -23,7 +23,8 @@ permalink: /support/
 - Devon Mordell, McMaster University 
 - Kaitlin Newson, ACENET 
 - Stéphanie Pham-Dang, Université de Montréal 
-- Katelyn Phillips, University of Regina 
+- Katelyn Phillips, University of Regina
+- Isaac Pratt, McMaster University
 - Alisa Beth Rod, McGill University 
 - Allison Van, McMaster University  
 
@@ -35,14 +36,22 @@ permalink: /support/
 - Angela Di Nello, McMaster University 
 - Niloofar Hooman, McMaster University 
 - Chelsea Miya, McMaster University 
-- Carly McLeod, McMaster University 
+- Carly McLeod, McMaster University
+- Isaac Pratt, McMaster University 
 - Sandra Rakovac, McMaster University 
 - Subhanya Sivajothy – Programming Chair, McMaster University 
 - Trudi Wright, McMaster University 
  
 ## Online Moderation Team 
 - Veronica Litt, Cape Breton University 
-- Evangeline Holtz-Shramek, McMaster University 
+- Evangeline Holtz-Shramek, McMaster University
+- Kaitlin Newson, ACENET
+
+## Non-Committee Volunteers
+- Kusum Bhatta, McMaster University
+- Matthew Burns, McMaster University
+- Ratika Sharma, McMaster University
+- Kat Williams, McMaster University
 
 ## Logo + Event Design
 - Kat Williams, McMaster University 
