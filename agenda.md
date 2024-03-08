@@ -181,7 +181,7 @@ permalink: /agenda/
 		    <tr>
 	<td>1545 - 1600</td>
 	<td>Presen&shy;tation</td>
-    	<td>“Formation of National Working Group”</td>
+    	<td>“Formation of Controlled Access Management working group”</td>
 		<td>Victoria Smith; Subhanya Sivajothy; Danica Evering</td>    
     </tr>
 			    <tr>
