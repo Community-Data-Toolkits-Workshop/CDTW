@@ -15,24 +15,4 @@ In-person registrations are now closed! Please join us virtually:
 
 
 ---
-<br>
 
-<h1 class="post-title">News</h1>
-
-### Coming Soon!
-
-<!--- 
-
-<ul class="listing">
-{% for post in site.posts %}
-  <li class="listing-item">
-   <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} | {{ post.date | date: "%B %-d, %Y" }}</a></p>
-    <div>
-        {{ post.excerpt }}<a class="excerpt" href="{{ site.baseurl }}{{ post.url }}"> Keep reading...</a>
-    </div>
-  </li>
-
-{% endfor %}
-</ul>
-
---->
