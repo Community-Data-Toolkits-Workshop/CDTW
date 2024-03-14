@@ -37,7 +37,7 @@ Mikala Narlock is the Director of the Data Curation Network where she is a stron
 <td><h3>Ted Hildebrandt, Social Planning and Research Council of Hamilton</h3>
 Ted Hildebrandt Ted is a Senior Social Planner with Social Planning and Research Council of Hamilton SPRC. Ted possesses a wealth of experience navigating policy frameworks and service delivery for vital organizations such as the Social Planning and Research Council of Hamilton’s (SPRC) Community Action Program for Children (CAPC). Previously a Director of Social Planning for the neighboring Halton region, Ted has over three decades of experience leading steering committees, translating and collating datasets to make meaningful social change, and managing multi-stakeholder social initiatives. Ted will present the session “Communities Empowered by Data - Control and Use” at our series, providing essential guidance on toolkit creation for community groups.</td></tr>
 
-<tr><td><img class="bio photo" title="Mayo Headshot" alt="Sara Mayo headshot" src="/CDTW/assets/img/Mayo-bio.png"></td>
+<tr><td><img class="bio photo" title="Mayo Headshot" alt="Sara Mayo headshot" src="/CDTW/assets/img/Mayo-bio.jpg"></td>
 <td><h3>Sara Mayo, Social Planning and Research Council of Hamilton</h3>
 Sara Mayo is a Social Planner (Geographic Information Systems) at the Social Planning and Research Council of Hamilton. In her 15 years at the SPRC, Sara has authored reports on community trends in poverty, housing, immigration, demographics, among other issues.</td></tr>
 </table>
