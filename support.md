@@ -80,10 +80,12 @@ permalink: /support/
 - Social Sciences and Humanities Research Council (SSHRC) - Connection Grant, Research Data Management Capacity Building Initiative 
 - Digital Research Alliance of Canada 
 - McMaster’s Office of the Vice-President - Research’s Research Centres and Institutes Fund 
-- McMaster University Library 
 - Hamilton-Wentworth District School Board (HWDSB) 
 - Social Planning Research Council of Hamilton (SPRC)
+- Office of Community Engagement, McMaster University
+- McMaster University Library
 
+  
 <div class="all-logos">
 <img class="logo-reg" title="Digital Research Alliance of Canada" alt=" " src="/CDTW/assets/img/Alliance-Logo-Stacked.png">
 
