@@ -87,9 +87,9 @@ permalink: /support/
 <div class="all-logos">
 <img class="logo-reg" title="Digital Research Alliance of Canada" alt=" " src="/CDTW/assets/img/Alliance-Logo-Stacked.png">
 
-<img class="logo-reg" title="Office of Community Engagement" alt=" " src="/CDTW/assets/img/mcm-oce_left-col_png.png">
-
 <img class="logo-reg" title="Sherman Centre for Digital Scholarship" alt=" " src="/CDTW/assets/img/scds-logo-white.png">
+
+<img class="logo-reg" title="Office of Community Engagement" alt=" " src="/CDTW/assets/img/mcm-oce_left-col _png.png">
 
 <img class="logo-reg" title="McMaster University Library" alt=" " src="/CDTW/assets/img/mcm-library_left-col_png.png">
 
