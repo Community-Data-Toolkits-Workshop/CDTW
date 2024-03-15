@@ -141,7 +141,7 @@ permalink: /agenda/
 		<td></td>
     </tr>
     <tr>
-    	<td>1030 - 1045</td>   
+    	<td>1100 - 1115</td>   
     	<td><strong>Break</strong></td>
     	<td>Morning coffee/tea/snack break.</td>
 			<td></td>	
