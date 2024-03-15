@@ -9,14 +9,13 @@ permalink: /support/
 
  
 
-## Programming Committee 
+## Programming Committee
 
 - Subhanya Sivajothy – Programming Chair, McMaster University 
 - Jason Brodeur, McMaster University 
 - Vicky Chung, University of Waterloo 
 - Erin Clary, Digital Research Alliance of Canada 
 - Dylanne Dearborn, University of Toronto 
-- Danica Evering – Logistics Chair, McMaster University 
 - Jane Fry, Carleton University 
 - Lina Marie Harper, Digital Research Alliance of Canada 
 - Niloofar Hooman, McMaster University 
@@ -27,6 +26,16 @@ permalink: /support/
 - Isaac Pratt, McMaster University
 - Alisa Beth Rod, McGill University 
 - Allison Van, McMaster University  
+
+### Non-Committee Facilitators 
+- Shahira Khair, University of Victoria
+- Felicity Tayler, University of Ottawa
+- Kelly Stathis, DataCite
+
+## Online Moderation Team 
+- Veronica Litt, Cape Breton University 
+- Evangeline Holtz-Shramek, McMaster University
+- Kaitlin Newson, ACENET
 
 ## Logistics Committee 
 - Danica Evering – Logistics Chair, McMaster University 
@@ -42,17 +51,15 @@ permalink: /support/
 - Subhanya Sivajothy – Programming Chair, McMaster University 
 - Trudi Wright, McMaster University 
  
-## Online Moderation Team 
-- Veronica Litt, Cape Breton University 
-- Evangeline Holtz-Shramek, McMaster University
-- Kaitlin Newson, ACENET
-
 ## Non-Committee Volunteers
 - Kusum Bhatta, McMaster University
 - Matthew Burns, McMaster University
 - Ratika Sharma, McMaster University
 - Kat Williams, McMaster University
 
+## Community Outreach Support
+- Shahad Al-Saqqar, Strategic Manager of Community-Engaged Research, Office of Community Engagement, McMaster University 
+  
 ## Logo + Event Design
 - Kat Williams, McMaster University 
 
@@ -60,7 +67,10 @@ permalink: /support/
 - Chelsea Miya, McMaster University 
 
 ## Web Content
-- Niloofar Hooman, McMaster University 
+- Niloofar Hooman, McMaster University
+
+## Development Support
+- Amanda Graveline, Senior Advisor, Development, Research Office for Administration, Development and Support (ROADS), McMaster University
 <br><br>
 
 <h1 class ="extra-big"> Sponsors</h1>
@@ -75,11 +85,13 @@ permalink: /support/
 - Social Planning Research Council of Hamilton (SPRC)
 
 <div class="all-logos">
-<img class="logo-reg" title="a title" alt="Alt text" src="/CDTW/assets/img/Alliance-Logo-Stacked.png">
+<img class="logo-reg" title="Digital Research Alliance of Canada" alt=" " src="/CDTW/assets/img/Alliance-Logo-Stacked.png">
 
-<img class="logo-reg" title="a title" alt="Alt text" src="/CDTW/assets/img/scds-logo-white.png">
+<img class="logo-reg" title="Office of Community Engagement" alt=" " src="/CDTW/assets/img/mcm-oce_left-col_png.png">
 
-<img class="logo-reg" title="a title" alt="Alt text" src="/CDTW/assets/img/mcm-library_left-col_png.png">
+<img class="logo-reg" title="Sherman Centre for Digital Scholarship" alt=" " src="/CDTW/assets/img/scds-logo-white.png">
 
-<img class="logo-long" title="a title" alt="Alt text" src="/CDTW/assets/img/sshrc-fip-full-black-eng.png">
+<img class="logo-reg" title="McMaster University Library" alt=" " src="/CDTW/assets/img/mcm-library_left-col_png.png">
+
+<img class="logo-long" title="Social Sciences and Humanities Research Council" alt=" " src="/CDTW/assets/img/sshrc-fip-full-black-eng.png">
 </div>
