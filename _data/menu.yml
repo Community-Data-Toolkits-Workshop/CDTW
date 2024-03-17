@@ -22,7 +22,9 @@
   subcategories:
     - subtitle: "Travel"
       subhref: "/travel/"
-    - subtitle: "Accessibility"
-      subhref: "/accessibility/"
     - subtitle: "Explore"
       subhref: "/explore/"
+    - subtitle: "Accessibility"
+      subhref: "/accessibility/"
+    - subtitle: "Code of Conduct"
+      subhref: "/conduct/"

@@ -99,9 +99,20 @@ h1 /* .post-title */ {
     }
 }
 
+h1.post-subtitle {
+    font-size: x-large;
+    font-weight: lighter;
+}
+
 h1.extra-big {
     font-size: 2em;
     margin: 1em 0em;
+}
+
+h3.post-update-date {
+    font-size: larger;
+    font-weight: lighter;
+    font-style: italic;
 }
 
 .google-maps {

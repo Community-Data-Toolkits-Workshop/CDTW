@@ -5,6 +5,10 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
+    <h1 class="post-subtitle">{{ page.subtitle }}</h1>
+    {% if page.update-date %}
+    <h3 class="post-update-date">Updated: {{ page.update-date }}</h1>
+    {% endif %}
   </header>
 
   <article class="post-content">
