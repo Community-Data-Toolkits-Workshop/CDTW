@@ -14,5 +14,3 @@ In-person registrations are now closed! Please join us virtually:
 [Register](https://mcmaster.zoom.us/meeting/register/tJ0tdeqorDgoGNdxtJIT8WPgowOvupEpp50S){: .btn2}
 
 
----
-

@@ -26,7 +26,10 @@ body {
     flex-direction: column;
 }
 
-
+b, strong {
+    font-weight: 600;
+    letter-spacing: 0.1em;
+}
 
 
 /**
@@ -149,10 +152,6 @@ h1, h2, h3, h4, h5, h6 {
 a {
     color: #CF307A;
     text-decoration: none;
-
-   &:visited {
-    /*    color: darken($brand-color, 15%); */
-    } 
 
     &:hover {
         text-decoration: underline;
