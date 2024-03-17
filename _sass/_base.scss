@@ -42,8 +42,6 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 4;
 }
 
-
-
 /**
  * Images
  */
@@ -88,6 +86,10 @@ li {
  * Tables
  */
 
+ .post-meta {
+    font-size: medium !important;
+}
+
 table{
 	margin-bottom:20px;
 	width:100%;
@@ -98,7 +100,7 @@ table{
 td,th{
 	padding:5px;
 	border-bottom: 1px solid #ddd;
-    font-size: small;
+    // font-size: small;
     hyphens: auto;
 }
 
