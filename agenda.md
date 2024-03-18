@@ -37,15 +37,15 @@ permalink: /agenda/
 	<td></td>
     </tr>
     <tr>
-        <td>0900 - 0930</td>	    
+        <td>0900 - 1000</td>	    
         <td>Introduc&shy;tion</td>
-	<td>“Research Data Management, Data Management Planning, and Data Deposit: the Controlled Access Management Project”</td>
+	<td>“Research Data Management, Data Management Planning, and Data Deposit"</td>
 	<td>Victoria Smith, Digital Research Alliance of Canada; Subhanya Sivajothy and Danica Evering, McMaster University Library</td>
     </tr>
     <tr>
-    	<td>0930 - 1030</td>
-    	<td>Break&shy;out</td>
-    	<td>Small Group Breakouts (in room): Introductions and Skillset Sharing.</td>
+    	<td>1000 - 1030</td>
+    	<td>Discussion</td>
+    	<td>Group Discussion</td>
 		<td></td>	
     </tr>
     <tr>
@@ -57,13 +57,13 @@ permalink: /agenda/
     <tr>	
 	<td>1045 - 1200</td>    
     	<td>Panel</td>
-    	<td>“We Support Hamilton: A Community Reporting Hate & Resources Platform” </td>
+    	<td>We Support Hamilton: A Community Reporting Hate & Resources Platform</td>
 		<td>Ameil Joseph, McMaster University; Lyndon George, Hamilton Anti-Racism Resource Centre</td>	
     </tr>
     <tr>	
 	<td>1200 - 1230</td>
     	<td>Planning</td>
-    	<td>Morning Check-In: Group Discussion (Menti) - What are some significant issues and missing tools?</td>
+    	<td>Small Group Breakouts: Introductions and Skillset Sharing</td>
 		<td></td>
     </tr>
     <tr>
@@ -75,13 +75,13 @@ permalink: /agenda/
 	    <tr>
         <td>1330 - 1430</td>   
         <td>Presen&shy;tation</td>
-	<td>“Education Data: A Case Study"</td>
+	<td>Education Data: A Case Study</td>
 	<td>Sally Landon and David Kanters, HWDSB; Karen Robson, McMaster University</td>	 
     </tr>
 		    <tr>
         <td>1430 - 1510</td>    
         <td>Breakout</td>
-	<td>Brainstorming: Key Issues + Potential Tools (Data Management Planning + Data Deposit Groups)</td>
+	<td>Brainstorming: Key Issues + Potential Tools</td>
 		<td></td>	
     </tr>
 		    <tr>
@@ -99,7 +99,7 @@ permalink: /agenda/
 			    <tr>
         <td>1545 - 1630</td>
         <td>Presen&shy;tation</td>
-	<td>“Communities Empowered by Data - Control and Use"</td>
+	<td>Communities Empowered by Data - Control and Use</td>
 		<td>Ted Hildebrand and Sara Mayo, Social Planning and Research Council of Hamilton</td>	    
     </tr>
 </tbody>
@@ -130,13 +130,13 @@ permalink: /agenda/
     <tr>
     	<td>0900 - 1000</td>
 	<td>Introduc&shy;tion</td>
-    	<td>“Community Research Data Toolkits: Potential Documents, Work Today, and Beyond” </td>
+    	<td>Community Research Data Toolkits: Potential Documents, Work Today, and Beyond</td>
 		<td>Subhanya Sivajothy and Danica Evering, McMaster University Library; Mikala Narlock, Data Curation Network</td>
     </tr>
     <tr>
     	<td>1000 - 1100</td>
     	<td>Hack&shy;athon</td>
-    	<td>Working Session 1: "First Steps for Toolkit Building: Confirm Document Types, Working Groups, Skillsets” (as groups in separate rooms); Form Working
+    	<td>Working Session 1: Community Accountability- How to ensure meaningful engagement with community organizations?
 		</td>
 		<td></td>
     </tr>
@@ -150,7 +150,7 @@ permalink: /agenda/
     	<td>1115 - 1230</td>
     	<td>Hack&shy;athon</td>
     	<td>
-		Working Session 2: “Community Accountability: How to ensure meaningful engagement with community organizations?”
+		Working Session 2: First Steps for Toolkit Building
 		</td>
 		<td></td>
     </tr>
@@ -163,13 +163,13 @@ permalink: /agenda/
 	    <tr>
 	<td>1330 - 1430</td>
 	<td>Hack&shy;athon</td>
-    	<td>Working Session 3: “Detailed Outlines for Toolkits” (as groups in separate rooms)</td>
+    	<td>Working Session 3: Detailed Outlines for Toolkits</td>
 			<td></td>    
     </tr>
 	    <tr>
 	<td>1430 - 1530</td>
 	<td>Discus&shy;sion</td>
-    	<td>Final Debrief Presentations: Data Management Planning + Data Deposit Groups present on work and next steps (30 mins each) </td>
+    	<td>Final Debrief Presentations - groups present on work and next steps</td>
 			<td></td>    
     </tr>
     <tr>
@@ -181,19 +181,13 @@ permalink: /agenda/
 		    <tr>
 	<td>1545 - 1600</td>
 	<td>Presen&shy;tation</td>
-    	<td>“Formation of Controlled Access Management working group”</td>
+    	<td>Formation of national working group</td>
 		<td>Victoria Smith; Subhanya Sivajothy; Danica Evering</td>    
     </tr>
 			    <tr>
 	<td>1600 - 1630</td> 
 	<td>Discus&shy;sion</td>
-    	<td>Closing Group Discussion:<br>
-
-- Priorities for the toolkit moving forward<br>
-
-- Reflections on hackathon model of toolkit development <br>
-
-- How to continue ethical engagement with community partners as we continue this work through the National Working Group<br>   </td>
+    	<td>Closing Group Discussion - what's next? </td>
 	<td></td>
     </tr>
 </tbody>
