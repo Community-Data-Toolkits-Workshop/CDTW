@@ -18,7 +18,8 @@ permalink: /support/
 - Dylanne Dearborn, University of Toronto 
 - Jane Fry, Carleton University 
 - Lina Marie Harper, Digital Research Alliance of Canada 
-- Niloofar Hooman, McMaster University 
+- Niloofar Hooman, McMaster University
+- Shahira Khair, University of Victoria
 - Devon Mordell, McMaster University 
 - Kaitlin Newson, ACENET 
 - Stéphanie Pham-Dang, Université de Montréal 
@@ -28,7 +29,6 @@ permalink: /support/
 - Allison Van, McMaster University  
 
 ### Non-Committee Facilitators 
-- Shahira Khair, University of Victoria
 - Felicity Tayler, University of Ottawa
 - Kelly Stathis, DataCite
 
@@ -51,7 +51,7 @@ permalink: /support/
 - Subhanya Sivajothy – Programming Chair, McMaster University 
 - Trudi Wright, McMaster University 
  
-## Non-Committee Volunteers
+### Non-Committee Volunteers
 - Kusum Bhatta, McMaster University
 - Matthew Burns, McMaster University
 - Ratika Sharma, McMaster University
