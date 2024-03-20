@@ -71,6 +71,7 @@ permalink: /support/
 
 ## Development Support
 - Amanda Graveline, Senior Advisor, Development, Research Office for Administration, Development and Support (ROADS), McMaster University
+- Evangeline Holtz-Shramek, Research Assistant, McMaster University
 <br><br>
 
 <h1 class ="extra-big"> Sponsors</h1>
