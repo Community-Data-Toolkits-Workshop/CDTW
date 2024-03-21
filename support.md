@@ -56,6 +56,7 @@ permalink: /support/
 - Matthew Burns, McMaster University
 - Ratika Sharma, McMaster University
 - Kat Williams, McMaster University
+- Brigitte Evering and Geoffrey Honey, Community Members
 
 ## Community Outreach Support
 - Shahad Al-Saqqar, Strategic Manager of Community-Engaged Research, Office of Community Engagement, McMaster University 
